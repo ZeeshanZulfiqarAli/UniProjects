@@ -18,5 +18,5 @@ Execute the exe file and run the .jar file to get it running rightaway.
 iBot_lib folder contains libraries required by the program.
 
 ## Softwares used
-*Java
-*Scenebuilder
+* Java
+* Scenebuilder
