@@ -1,0 +1,26 @@
+You can try one of these:
+-asking weather(internet required)
+-asking what is the time in any country
+-asking for jokes
+-ask general stuff like
+	-its name
+	-whats is an chatbot(MA)
+	-is ibot immortal(MA)
+	-is it human(MA)
+	-can it move(MA)
+	-can it laugh
+	-can robots lie(MA)
+	-is it a machine(MA)
+	-how is it like to be robot (MA)
+	-what is its favourite programmng language(MA)
+	-tell him that u want to stay immortal(MA)
+	-its interests(MA)
+	-do it have siblings or brothers or sisters
+	-what is its age(MA)
+	-when will it die(MA)
+	-what is its buisiness(MA)
+	-when will it walk
+-ask to open a browser
+-ask to open youtube
+
+MA=Multiple Answer
